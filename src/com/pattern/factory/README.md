@@ -16,6 +16,6 @@ Remember it also has the disadvantage that you can’t subclass and change the b
 # JDK Example
 java.sql.DriverManager.getConnection() uses factory pattern.
 
-# Reference Books
+# References
 Head First Design Patterns.
 
