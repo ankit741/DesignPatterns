@@ -29,6 +29,7 @@ Design patterns, as name suggest, are solutions for most commonly (and frequentl
 </details>
 
 
+***
 >## factory
 
 ### Design Principle
